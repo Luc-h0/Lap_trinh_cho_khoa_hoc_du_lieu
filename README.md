@@ -2,33 +2,41 @@
 
 ### <center style="color:#a7ff83"> 21KHDL1 - GROUP 10
 
-## <span style="color:#17b978">**Introduction**</span>
+<!-- ## <span style="color:#17b978">**Introduction**</span> -->
+### **About us**
+
+| Student ID | Name                |
+| ---------- | ------------------- |
+| 21127038   | Võ Phú Hãn          |
+| 21127351   | Hồ Đinh Duy Lực     |
 
 ### **About the project**
 
-**Course Registration System** is a program that supports managing students in the university. There are 2 main types of users: academic staff and students. When users log in to the program, the system will detect their role and display a menu of functions suitable for them. There are some functions you can use in our program.
+**Analyzing Google Play Store apps** is crucial for several reasons. It provides valuable insights into app trends, user preferences, and market dynamics. This data can help developers understand what types of apps are successful, which features users find most appealing, and how to price their apps effectively. Additionally, analysis can reveal patterns in user reviews and ratings, helping developers improve their apps based on user feedback. For businesses and marketers, this analysis can guide advertising strategies and help target the right audience. Therefore, Google Play Store app analysis plays a vital role in app development, marketing, and user experience enhancement.
 
-If you are academic staff, you can:
+<!-- ## <span style="color:#17b978">**Tree Structure**</span> -->
 
-- Create and modify courses, classes, etc.
-- Add or remove students
-- Create a course registration session
+### **Folder Structure**
 
-And if you are a student, you can:
+```bash
+.
+├── Data
+│   ├── Processed
+│   │   ├── cleaned_apps.csv
+│   │   └── cleaned_reviews.csv
+│   └── Raw
+│       ├── googleplaystore.csv
+│       ├── googleplaystore_user_reviews.csv
+│       └── license.txt
+├── Notebook
+│   ├── 1.0-Preprocess.ipynb
+│   └── 2.0-EDA.ipynb
+├── Project_plan.xlsm
+└── README.md
+```
 
-- Enroll in course
-- View the schedule of your course
-- View your scoreboard after a semester
+<!-- ## <span style="color:#17b978">**Project Plan**</span> -->
 
-Moreover, there are a lot of features waiting for you to explore!
+**Project Plan:** [click here](Project_plan.xlsm)
 
-### **About us**
-
-| Student ID | Name                | Role        | Phone Number | School Email              |
-| ---------- | ------------------- | ----------- | ------------ | ------------------------- |
-| 21127278   | Nguyễn Trọng Hiếu   | Leader      | 0938001732   | nthieu21@clc.fitus.edu.vn |
-| 21127632   | Nguyễn Cao Khôi     | Tech Lead   | 0984002702   | nckhoi21@clc.fitus.edu.vn |
-| 21127038   | Võ Phú Hãn          | Secretary   | 0834075197   | vphan21@clc.fitus.edu.vn  |
-| 21127728   | Nguyễn Cao Nhật Nam | Time Keeper | 0704148059   | ncnnam21@clc.fitus.edu.vn |
-
-## <span style="color:#17b978">**Students Management System**</span>
+**Data Source:** [Google Play Store Apps - Kaggle](https://www.kaggle.com/datasets/lava18/google-play-store-apps/)
