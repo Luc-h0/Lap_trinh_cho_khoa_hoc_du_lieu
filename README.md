@@ -10,9 +10,9 @@
 | 21127038   | Võ Phú Hãn          |
 | 21127351   | Hồ Đinh Duy Lực     |
 
-<!-- ### **About the project**
+## **About the project**
 
-**Analyzing Google Play Store apps** is crucial for several reasons. It provides valuable insights into app trends, user preferences, and market dynamics. This data can help developers understand what types of apps are successful, which features users find most appealing, and how to price their apps effectively. Additionally, analysis can reveal patterns in user reviews and ratings, helping developers improve their apps based on user feedback. For businesses and marketers, this analysis can guide advertising strategies and help target the right audience. Therefore, Google Play Store app analysis plays a vital role in app development, marketing, and user experience enhancement. -->
+**Analyzing Google Play Store apps** is crucial for several reasons. It provides valuable insights into app trends, user preferences, and market dynamics. This data can help developers understand what types of apps are successful, which features users find most appealing, and how to price their apps effectively. Additionally, analysis can reveal patterns in user reviews and ratings, helping developers improve their apps based on user feedback. For businesses and marketers, this analysis can guide advertising strategies and help target the right audience. Therefore, Google Play Store app analysis plays a vital role in app development, marketing, and user experience enhancement.
 
 <!-- ## <span style="color:#17b978">**Tree Structure**</span> -->
 
