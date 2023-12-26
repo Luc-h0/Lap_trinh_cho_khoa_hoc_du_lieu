@@ -1,6 +1,6 @@
 # <center style="color:#a7ff83"> CSC17104 - Programming for  Data Science - Final Project
 
-### <center style="color:#a7ff83"> 21KHDL1 - GROUP 10
+### <center style="color:#a7ff83"> 21KHDL1 - GROUP 18
 
 <!-- ## <span style="color:#17b978">**Introduction**</span> -->
 ### **About us**
